@@ -107,7 +107,7 @@
                 'group flex items-center py-3',
                 { active: activeSection === 'about' },
               ]"
-              href="/personal-page/?view=main#about">
+              href="/resume/?view=main#about">
               <!-- Dynamic Indicator -->
               <span
                 :class="[
@@ -140,7 +140,7 @@
                 'group flex items-center py-3',
                 { active: activeSection === 'experience' },
               ]"
-              href="/personal-page/?view=main#experience">
+              href="/resume/?view=main#experience">
               <!-- Dynamic Indicator -->
               <span
                 :class="[
@@ -173,7 +173,7 @@
                 'group flex items-center py-3',
                 { active: activeSection === 'projects' },
               ]"
-              href="/personal-page/?view=main#projects">
+              href="/resume/?view=main#projects">
               <!-- Dynamic Indicator -->
               <span
                 :class="[
