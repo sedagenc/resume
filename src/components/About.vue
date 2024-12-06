@@ -24,7 +24,7 @@
       different sectors. I leverage my skills in engineering and technology to
       design impactful and efficient outcomes.
     </p>
-    <p class="mb-4">
+    <p class="mb-4 hidden">
       I am a native  <span
         class="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">
         Turkish</span
@@ -33,6 +33,11 @@
         English</span> and elementary proficiency in <span
         class="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">
         Arabic</span>.
+    </p>
+ 
+    <p         class="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">
+      
+      Turkish: Native | English: Expert | Arabic: Beginner
     </p>
   </div>
 </template>

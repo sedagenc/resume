@@ -205,7 +205,7 @@
         </ul>
       </nav>
     </div>
-    <ul class="ml-1 mt-8 flex-col items-center" aria-label="Social media">
+    <ul class="ml-1 mt-8 flex-col text-slate-100 items-center" aria-label="Social media">
       <li class="mr-5 shrink-0 text-xs">
         <p class="mt-4 max-w-xs leading-normal">+90 531 917 83 74</p>
       </li>
