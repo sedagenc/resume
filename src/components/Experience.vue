@@ -16,7 +16,7 @@
           <header
             class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2"
             aria-label="2024 to Present">
-            2022 Sep — 2025 May
+            2022 Sep — 2024 May
           </header>
           <div class="z-10 sm:col-span-6">
             <h3 class="font-medium leading-snug text-slate-200">

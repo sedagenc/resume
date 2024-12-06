@@ -10,9 +10,11 @@
         Industrial Engineer
       </h2>
       <p class="mt-3 max-w-xs leading-normal">
-        I like solving problems through programming and building things that
-        help people.
+        I enjoy creating innovative solutions and developing systems that
+        optimize processes and improve people's lives. 
       </p>
+    
+
       <a
         class="mt-2 group/korok inline-flex lg:font-medium text-slate-200"
         href="./sedagenc_cv.pdf"
