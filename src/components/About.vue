@@ -37,7 +37,7 @@
  
     <p         class="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">
       
-      Turkish: Native | English: Expert | Arabic: Beginner
+      Turkish: Native | English: Fluent | Arabic: Beginner
     </p>
   </div>
 </template>
