@@ -14,7 +14,7 @@
         Marmara University Industrial Engineering</span
       >
       I specialized in project management, customer relations and social media
-      management,. I have extensive experience developing international
+      management. I have extensive experience developing international
       collaborations, successfully implementing creative projects and designing
       campaigns.
     </p>
